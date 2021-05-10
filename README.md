@@ -1,3 +1,3 @@
 # ajax-projects
 
-This repo conatins AJAX projects.
+This repo contains AJAX projects.
